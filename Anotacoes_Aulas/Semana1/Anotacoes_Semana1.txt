@@ -1,0 +1,132 @@
+Java Slide 01:
+
+PARTE I:
+->Simple
+	->Java mais parecida possivel com C++
+	->Java omite recursos raramente usados e pouco compreendidos (Que trazem mais dificuldades que beneficios)
+	
+->Orientade Objetos
+	->Componentes reutilizaveis de software
+	->substantivos -> objeto de software em termos dos atributos e comportamentos
+	->Programas orientados a objetos sao mais faceis de entender, corrigir e modificar
+	
+->Distribuida
+	->Biblioteca extensa de rotinas para lidar(protocolos TCP/IP (HTTP,FTP).
+	->Acesso a "Objetos de Internet atraves de URLs" com a mesma facilidade que acesso arquivos locais.
+
+->Robusta
+	->Programas confiaveis de varias formas
+	->Verificacao Antecipada de possiveis problemas
+	->Verificacao dinamica em tempo de execucao
+	->Eliminacao de situacoes sujeitas a erros
+	->Java usa modelo de ponteiros que elimina a possibilidade de sobrescrita de memoria e consequentemente destruicao de dados.
+	
+->Segura
+	->Usada em ambientes de rede/distribuidos
+	->Permite construcao de sistemas livres de virus e adulteracoes
+	
+->Neutra em Relacao a Arquitetura
+	->Compilar gera ->arquivo objeto(Neutro em relacao a arquitetura).
+	->Codigo compilado e executavel em muitos processadores (Sistema Java em tempo de execucao)
+	->Instrucoes Java sao em bytecodes ( ou seja, nada tem a ver com uma arquitetura particular de um computador especifico)
+	->Projetas para serem faceis de interpretar em qualquer maquina e convertidas facilmente para  o codigo nativo da maquina em tempo real.
+	
+->Portavel
+	->Nao ha aspectos "dependentes de implementacao"
+	->Os tamanhos dos tipos de dados primitivos sao especificados, assim como o comportamento da aritmetica que os utiliza.
+	
+->Interpretada
+	->Pode executar bytecodes Java diretamente em qualquer maquina para qual tenha sido escrito
+	->Processo de desenvolvimento pode ser muito mais rapido e exploratorio
+	
+		->Programa Fonte -> Compilador ->Programa Executavel
+				 ->Sistema Operacional (CPU)
+				 
+				 ->Programa Executavel
+				 ->Sistema Operacional CPU
+				 
+				 ->Programa Fonte
+				 ->Interpretador
+				 ->Sistema Operacional (CPU)
+	->Aplicacao <-> Maquina Virtual Java <->Sistema Operacional <-> Hardware			 
+	
+				 
+->Alto Desempenho
+	->Desempenho dos Bytecodes sao geralmente  suficientes, caso necessario desempenho superior :
+	->Bytecodes podem ser convertidos em tempo real para codigo de maquina da CPU particular onde o aplicativo esta executando.
+	
+->Multiplas linhas de execucao( Threads )
+	->Sao melhor capacidade de resposta interativa e melhor comportamento em tempo real de execucao
+	
+->Dinamica
+	->Java e mais dinamica que C ou C++
+	->Obter informacao em tempo de execucao e imediato
+	
+		
+PARTE II:
+
+	Ambientes de Programacao Java:
+		->IDEs(Integrated Developmente Environment)
+			->Eclipse
+			->NetBeans
+				->nbproject :Arquivos do projeto (Interface Netbeans, propriedades etc...
+				->src: codigo fonte .java
+				->manifest.mf : configuracao
+		->Shel (Editor tela preta)
+			->emacs -nw opa.java
+			->javac opa.java
+			->java opa
+			
+			->nbproject
+			 
+			 
+			 
+PARTE III:		 
+		
+			 
+Tipos de dado:
+	Int
+	Short
+	Long
+	Float
+	char
+		
+Operadores:
+	+-*/
+	 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+			 
+	
+	
