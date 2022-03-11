@@ -10,10 +10,16 @@ public class Main {
         Calculos meuCalculo=new Calculos();
         meuCalculo.entradaDados();
         escolha = meuCalculo.menu();
+        int somaEsperado=20;
+        int subtracaoEsperado=10;
+        int multipliacacoEsperado=100;
+        int divisaoEsperado=2;
+
         switch (escolha){
             case 1:
                 System.out.printf("A soma de a + b é:");
                 System.out.printf("%d",meuCalculo.soma(meuCalculo.getA(), meuCalculo.getB()));
+//                assertEquals();
                 break;
             case 2:
                 System.out.printf("A multiplicacao de a * b é:");
