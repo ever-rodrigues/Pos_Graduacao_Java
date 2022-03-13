@@ -1,3 +1,5 @@
+package GERAL;
+
 public class SelecaoTernario {
     public static void main(String[] args) {
         //Interrogacao  ? e igual a if

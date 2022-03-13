@@ -1,3 +1,5 @@
+package GERAL;
+
 public class SwitchCase {
     public static void main(String[] args) {
         int valor = (int)(Math.random()*5);

@@ -1,3 +1,5 @@
+package GERAL;
+
 public class Calculando{
     int valor1;
     int valor2;

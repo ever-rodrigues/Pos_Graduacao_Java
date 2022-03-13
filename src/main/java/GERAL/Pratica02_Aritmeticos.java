@@ -1,3 +1,5 @@
+package GERAL;
+
 public class Pratica02_Aritmeticos {
     public static void main(String[] args) {
         System.out.println("Impressao de Resultados de Calculos:");

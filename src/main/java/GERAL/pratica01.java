@@ -1,3 +1,5 @@
+package GERAL;
+
 import java.io.*;
 public class pratica01 {
     public static void main(String[] args) throws IOException {

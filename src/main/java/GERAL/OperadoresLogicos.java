@@ -1,3 +1,5 @@
+package GERAL;
+
 public class OperadoresLogicos {
     public static void main(String[] args) {
         int a=0,c=0, valor=15;
